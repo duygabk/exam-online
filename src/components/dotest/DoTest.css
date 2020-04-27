@@ -1,0 +1,19 @@
+input[type="radio"] {
+  float: left;
+  margin-right: 80px;
+  color: blue;
+}
+
+.answer {
+  margin-right: 50px;
+}
+
+.true-answer {
+  color: rgb(33, 190, 54);
+  font-weight: bold;
+}
+
+.false-answer {
+  color: red;
+  font-weight: bold;
+}
