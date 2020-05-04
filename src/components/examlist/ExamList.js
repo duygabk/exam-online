@@ -42,7 +42,7 @@ function OneExam(props) {
     setExamTitle(exam.title);
     setExamDescription(exam.description);
     setExamLevel(exam.level);
-  }, [props]);
+  }, [props.exam]);
 
   /* update exam info */ 
   const callEdit = () => {

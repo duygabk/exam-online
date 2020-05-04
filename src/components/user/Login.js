@@ -34,7 +34,7 @@ const Login = (props) => {
   },[])
 
   const onFinish = (values) => {
-    console.log("Login: ", {values});
+    // console.log("Login: ", {values});
     // authentication validate     
     const { users } = props.user;
     if (users && Object.keys(users).length) {

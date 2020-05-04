@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 // import logo from './logo.svg';
 import {
   BrowserRouter as Router,
@@ -17,26 +17,22 @@ import { Layout } from "antd";
 import AppHeader from "../common/AppHeader";
 import DoTest from "../dotest/DoTest";
 import NotFound from "../common/NotFound";
-const { Header, Content, Footer } = Layout;
+// const { Header, Content, Footer } = Layout;
+import { getAllUser } from '../../utils/axios';
 
 function App(props) {
+  useEffect(() => {
+    // test server
+    getAllUser().then(response => {
+      console.log("From server ", response);
+    })
+
+  }, []); 
+
   return (
     <Router>
       <div className="App">
-        {/* <Layout>
-          <Header>
-            <AppHeader />
-          </Header>
-          <Content>
-            <ExamList />
-          </Content>
-          <Footer>
-            App Footer
-          </Footer>
-        </Layout> */}
         <AppHeader />
-        {/* <ExamList /> */}
-        {/* <DoTest /> */}
         <Switch>
           <Route exact path="/">
             Home
