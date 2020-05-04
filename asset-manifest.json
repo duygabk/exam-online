@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/temprate/static/css/main.0ae8a818.chunk.css",
+    "main.js": "/temprate/static/js/main.85a00e83.chunk.js",
+    "main.js.map": "/temprate/static/js/main.85a00e83.chunk.js.map",
+    "runtime-main.js": "/temprate/static/js/runtime-main.080d340d.js",
+    "runtime-main.js.map": "/temprate/static/js/runtime-main.080d340d.js.map",
+    "static/css/2.a43b59a1.chunk.css": "/temprate/static/css/2.a43b59a1.chunk.css",
+    "static/js/2.edae3f24.chunk.js": "/temprate/static/js/2.edae3f24.chunk.js",
+    "static/js/2.edae3f24.chunk.js.map": "/temprate/static/js/2.edae3f24.chunk.js.map",
+    "index.html": "/temprate/index.html",
+    "precache-manifest.86b92f913cc72092da7717f6f5155711.js": "/temprate/precache-manifest.86b92f913cc72092da7717f6f5155711.js",
+    "service-worker.js": "/temprate/service-worker.js",
+    "static/css/2.a43b59a1.chunk.css.map": "/temprate/static/css/2.a43b59a1.chunk.css.map",
+    "static/css/main.0ae8a818.chunk.css.map": "/temprate/static/css/main.0ae8a818.chunk.css.map",
+    "static/js/2.edae3f24.chunk.js.LICENSE.txt": "/temprate/static/js/2.edae3f24.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.080d340d.js",
+    "static/css/2.a43b59a1.chunk.css",
+    "static/js/2.edae3f24.chunk.js",
+    "static/css/main.0ae8a818.chunk.css",
+    "static/js/main.85a00e83.chunk.js"
+  ]
+}
