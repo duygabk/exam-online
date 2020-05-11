@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/temprate/static/css/main.8db24a87.chunk.css",
-    "main.js": "/temprate/static/js/main.8c217d83.chunk.js",
-    "main.js.map": "/temprate/static/js/main.8c217d83.chunk.js.map",
+    "main.js": "/temprate/static/js/main.e8e62b7e.chunk.js",
+    "main.js.map": "/temprate/static/js/main.e8e62b7e.chunk.js.map",
     "runtime-main.js": "/temprate/static/js/runtime-main.080d340d.js",
     "runtime-main.js.map": "/temprate/static/js/runtime-main.080d340d.js.map",
     "static/css/2.a43b59a1.chunk.css": "/temprate/static/css/2.a43b59a1.chunk.css",
     "static/js/2.d056d739.chunk.js": "/temprate/static/js/2.d056d739.chunk.js",
     "static/js/2.d056d739.chunk.js.map": "/temprate/static/js/2.d056d739.chunk.js.map",
     "index.html": "/temprate/index.html",
-    "precache-manifest.905fa2715c955d0db768187ac07da83a.js": "/temprate/precache-manifest.905fa2715c955d0db768187ac07da83a.js",
+    "precache-manifest.6031050bdaadafb07c63529d36d500e1.js": "/temprate/precache-manifest.6031050bdaadafb07c63529d36d500e1.js",
     "service-worker.js": "/temprate/service-worker.js",
     "static/css/2.a43b59a1.chunk.css.map": "/temprate/static/css/2.a43b59a1.chunk.css.map",
     "static/css/main.8db24a87.chunk.css.map": "/temprate/static/css/main.8db24a87.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.a43b59a1.chunk.css",
     "static/js/2.d056d739.chunk.js",
     "static/css/main.8db24a87.chunk.css",
-    "static/js/main.8c217d83.chunk.js"
+    "static/js/main.e8e62b7e.chunk.js"
   ]
 }

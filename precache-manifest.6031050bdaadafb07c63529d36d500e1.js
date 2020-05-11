@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "868e04aeb0172dd3d4ff779d04aa313c",
+    "revision": "efa901c8c143482ff91e998af3f45716",
     "url": "/temprate/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/temprate/static/css/2.a43b59a1.chunk.css"
   },
   {
-    "revision": "3f81dd9df9d6fdcfdc2c",
+    "revision": "3cb80cac7aa6927f26bf",
     "url": "/temprate/static/css/main.8db24a87.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/temprate/static/js/2.d056d739.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3f81dd9df9d6fdcfdc2c",
-    "url": "/temprate/static/js/main.8c217d83.chunk.js"
+    "revision": "3cb80cac7aa6927f26bf",
+    "url": "/temprate/static/js/main.e8e62b7e.chunk.js"
   },
   {
     "revision": "e5ea45160d96682b5c75",
